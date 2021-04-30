@@ -10,7 +10,7 @@ E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://github.com/w-nobre/Logos_Design/blob/master/logo.png?raw=true" width="400px" />
+<br><br><img align="right" alt="GIF" src="https://github.com/w-nobre/Logos_Design/blob/master/logo.png?raw=true" width="400px" />
 
 - 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack. 
