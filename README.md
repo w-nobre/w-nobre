@@ -24,9 +24,6 @@ E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-nobre&layout=compact&theme=graywhite&title_color=268bd2" alt="Wesley Nobre" />
-</p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=w-nobre&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Wesley Nobre" />
 </p>
