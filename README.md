@@ -41,4 +41,3 @@ E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
