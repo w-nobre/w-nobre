@@ -17,7 +17,6 @@ E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor
   - Estudar; 
   - Ler livros;
   - Jogar League of Legends;
-- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=w-nobre&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Wesley Nobre" />
