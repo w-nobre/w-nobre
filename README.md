@@ -8,15 +8,11 @@ E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor
 </p>
 <hr />
 
-**Meus interesses pessoais:**
-<img align="center" alt="GIF" src="https://github.com/w-nobre/Logos_Design/blob/master/capa.png?raw=true"/>
-<br><br><img align="right" alt="png" src="https://github.com/w-nobre/Logos_Design/blob/master/computer-programming-programmer-computer-software-technical-support-programming-language-computer-797ad112085dfdd3f2b213698ba83279.png?raw=true" width="400px" />
-
 -  Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 -  Meus hobbies são: 
   - Estudar; 
   - Ler livros;
-  - Jogar League of Legends;
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=w-nobre&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Wesley Nobre" />
