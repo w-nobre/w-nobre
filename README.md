@@ -3,16 +3,12 @@
 Me chamo <b> Wesley Nobre</b>.
 </p>
 <p align="left" >
-Atualmente moro em Guaraciaba do Norte/CE-BR.<br />
+Atualmente moro em Rio de Janeiro / RJ.<br />
 E estou me capacitando pelo Instituto Federal para me tornar um <b>Desenvolvedor</b>.
 </p>
 <hr />
 
 -  Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
--  Meus hobbies são: 
-  - Estudar; 
-  - Ler livros;
-
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=w-nobre&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Wesley Nobre" />
